@@ -17,6 +17,7 @@ Repository Contents:
 - README.md - This file that contains project description and overview.
 
 Analysis Questions Addressed:
+
  1- Total Revenue & Date Range – For store 853, total revenue is $337,002.00 from 2022-01-01 to 2025-12-30. 
                                  For Store 832, total revenue is $311,810.56 from 2022-01-03 to 2025-12-28.- 
  2- Monthly Revenue Breakdown - Calculated Monthly Revenue for South carolina and showed it through pivot chart and table.
