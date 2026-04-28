@@ -1,5 +1,4 @@
 # Capstone_1 – EmporiUm Sales Territory Analysis
-Sales Analysis
 
 Project Overview:
 - This project is about EmporiUm, a growing student bookstore chain that sells books, tech products, art supplies, and other merchandise both in-store and online.
