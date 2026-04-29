@@ -1,8 +1,15 @@
 # Capstone_1 – EmporiUm Sales Territory Analysis
 
 Project Overview:
-- This project is about EmporiUm, a growing student bookstore chain that sells books, tech products, art supplies, and other merchandise both in-store and online.
+- I was assigned to perform a sales analysis for  EmporiUm, a growing student bookstore chain that sells books, tech products, art supplies, and other merchandise both   in-store and online.
 - The goal of this project is to analyze sales data for an assigned territory, answer key business questions posed by the sales manager, and deliver data-driven recommendations to guide future sales strategy.
+- Len Jensen, manager for South Carolina assigned me to analyze:
+     - Sales data for two in-store locations;  
+                        -  Greenville (Store 853)
+                        -  Charleston (Store 852)
+      
+     - Date period: January 1, 2022 - December 30,2025 (4 years)  
+             
 
 My Sales Territory:
 - Territory: South Carolina (In-Store)
