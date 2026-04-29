@@ -20,7 +20,7 @@ My Sales Territory:
 
 Repository Contents:
 - Tariq_sales_analysis.sql - SQL script containing all queries used to analyze the South Carolina sales territory.
-- Tariq_territory_chart.xlsx - Excel workbook with pivot-style tables and charts visualizing monthly revenue and transactions by category.
+- Tariq_territory_chart.xlsx - Two Excel workbook with pivot tables and charts visualizing monthly revenue and transactions by category.
 - README.md - This file that contains project description and overview.
 
 Analysis Questions:
@@ -42,7 +42,7 @@ Analysis Questions:
 Tools Used:
 - MySQL Workbench – Query execution and data exploration
 - Microsoft Excel – PivotChart visualizations exported from query results
-- GitHub – Version control and project repository
+- GitHub/GitBash – Version control and project repository
 
 Capstone Video:
  LINK HERE: 
