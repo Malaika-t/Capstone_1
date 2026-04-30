@@ -118,8 +118,8 @@ GROUP BY sl.StoreId, ss.Transaction_Date, ic.Category
 ORDER BY sl.StoreId, Customer_Rank; 
 
 -- Based on the sales analysis and results, technology & accessories ranked# 1. 
--- Every top ranked transaction at store 852 is from technology & accesssories with no other category appearing in the results.
+-- Every top ranked transaction at store 852 is from technology & accessories with no other category appearing in the results.
 -- Months September through December dominates, meaning it is the prime selling season.
 -- Average transaction value is also high, it confirms that technology & accessories customers spent more per visit. 
--- For Next Quarter: Focus sales attention on Technology & Accessories at Store 852 Charleston specificaly during September-December.This category consistently generates the highest revenue per transaction. 
--- Precriptive Analysis: Increasing inventory, running targeted promotions, and training staff on technology & accesssories during these peak months will maximize revenue in the next quarter.
+-- For Next Quarter: Focus sales attention on Technology & Accessories at Store 852 Charleston specifically during September-December. This category consistently generates the highest revenue per transaction. 
+-- Precriptive Analysis: Increasing inventory, running targeted promotions, and training staff on technology & accessories during these peak months will maximize revenue in the next quarter.
