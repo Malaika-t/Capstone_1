@@ -46,8 +46,9 @@ Tools Used:
 - Microsoft Excel
 - GitHub
 - GitBash
+- Claude AI 
 - Microsoft PowerPoint
-- Claude AI
+
 
 Capstone Video:
  LINK HERE: 
