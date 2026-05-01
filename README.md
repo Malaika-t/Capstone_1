@@ -38,6 +38,8 @@ Analysis Questions:
  
  6- Next Quarter Recommendation – My recommendation is to rank customers within each store by total spending and transaction count. I also created a table to show how I reached this recommendation.
 
+ AI Disclosure:
+ This project was completed with the assistance of Claude AI (coaching). Claude is used as a learning tool. Claude helped me to verify the tables and to correct some errors in my SQL data that I couldn't find or fix and to understand why my query isn't working.
 
 Tools Used:
 - MySQL Workbench – Query execution and data exploration
