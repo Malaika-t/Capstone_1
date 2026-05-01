@@ -42,9 +42,12 @@ Analysis Questions:
  This project was completed with the assistance of Claude AI (coaching). Claude is used as a learning tool. Claude helped me to verify the tables and to correct some errors in my SQL data that I couldn't find or fix and to understand why my query isn't working.
 
 Tools Used:
-- MySQL Workbench – Query execution and data exploration
-- Microsoft Excel – PivotChart visualizations exported from query results
-- GitHub/GitBash – Version control and project repository
+- MySQL Workbench
+- Microsoft Excel
+- GitHub
+- GitBash
+- Microsoft PowerPoint
+- Claude AI
 
 Capstone Video:
  LINK HERE: 
