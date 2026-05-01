@@ -28,7 +28,7 @@ Analysis Questions:
  1- Total Revenue & Date Range – For store 853, total revenue is $337,002.00 from 2022-01-01 to 2025-12-30. 
                                  For Store 832, total revenue is $311,810.56 from 2022-01-03 to 2025-12-28.
                                  
- 2- Monthly Revenue Breakdown - Calculated Monthly Revenue for South carolina and showed it through pivot chart and table.
+ 2- Monthly Revenue Breakdown - Calculated Monthly Revenue for South carolina and showed it through pivot chart and table. I also created a dashboard for store monthly revenue.
  
  3- Territory vs. Region Comparison – The total revenue for all stores in South Territory is $8M vs South carolina at $648812.56.
  
@@ -36,7 +36,7 @@ Analysis Questions:
  
  5- Store Performance Ranking – Greenville (Store 853) ranked#1 in sales performance as comapred to Charleston.
  
- 6- Next Quarter Recommendation – My recommendation is to rank customers within each store by total spending and transaction count. 
+ 6- Next Quarter Recommendation – My recommendation is to rank customers within each store by total spending and transaction count. I also created a table to show how I reached this recommendation.
 
 
 Tools Used:
